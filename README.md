@@ -41,7 +41,7 @@ This application has been created for educational purposes only. No orders will 
 
 ### User stories 
 
-- #### Viewing and Navigation
+#### Viewing and Navigation
 
  | User Story  | As a     | I want to be able to...         | So that I can...                                                                     |
 |---------------|----------|--------------------------------|--------------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ This application has been created for educational purposes only. No orders will 
 | 3             | Customer  | I want to view detailed information about each print  |  Make informed decisions before making a purchase                                                     |
 | 4             | Customer  | View the items I have in my shopping bag| Check whether I want to purchase or amend the prints I've selected  |
 
-- #### Registration and User Accounts
+#### Registration and User Accounts
 
 | User Story ID | As a     | I want to be able to ...                     | So that I can...                                         |
 |---------------|----------|---------------------------------------------|---------------------------------------------------------|
@@ -60,12 +60,47 @@ This application has been created for educational purposes only. No orders will 
 | 4             | Account holder  | View a profile page                          | View my delivery address and review past orders  |
 | 5             | Account holder  | Reset my password                            | Recover my account                                       |
 
-    
+#### Sorting and Searching 
 
-- #### Sorting and Searching 
-- #### Review 
-- #### Purchasing and Checkout
-- #### Contact 
-- #### Admin and Store Management 
+| User Story | As a       | I want to be able to...                      | So that I can...                                      |
+|------------|------------|---------------------------------------------|------------------------------------------------------|
+| 1          | Customer   | Search for a product by name or description | Identify the product I want to buy quicker            |
+| 2          | Customer   | See what I've searched for                   | View a selection of products specific to my needs     |
+
+#### Review
+
+| User Story ID | As a           | I want to be able to ...         | So that I can...                                                 |
+|---------------|----------------|----------------------------------|-------------------------------------------------------------------|
+| 1             | Account Holder | Read product reviews            | Find out what other customers think about the product            |
+| 2             | Account Holder | Add a product review             | Share my experience using the product with other customers       |
+
+#### Purchasing and Checkout
+
+| User Story ID | As a     | I want to be able to...                                     | So that I can...                                                                         |
+|---------------|----------|------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 1             | Customer | Select the quantity of a product when purchasing it | Add more than one of the same product if I wish
+| 2             | Customer | View all items in my shopping cart                                    | To confirm that everything is added correctly
+| 3             | Customer | Adjust the quantity of individual items in my bag           | Amend my purchase before checkout                                       |
+| 4             | Customer | Enter my payment information                         | Check out my order in a seamless manner                                                    |
+| 5             | Customer | Save my billing and shipping address                                      | Don't have to enter them when I place another order                                       |
+| 6             | Customer | View an order confirmation after checkout                   | Make sure my order was successfully and check that all items are correct  |
+| 7             | Customer | Save all orders on my Profile                               | Access all orders that I've placed on the app                                                       |
+| 8             | Customer | Receive an email confirmation after checking out            | Verify that my purchase has gone through successfully
+
+#### Contact 
+
+| User Story ID | As a                | I want to be able to...   | So that I can...  |
+|---------------|---------------------|---------------------------|-------------------|
+| 1             | Customer/Account Holder/Visitor | Contact the admin team | Ask questions     |
+
+#### Admin and Store Management
+
+| User Story ID | As a   | I want to be able to... | So that I can...                            |
+|---------------|--------|-------------------------|---------------------------------------------|
+| 1             | Admin  | Add a product           | Add new items to the store                   |
+| 2             | Admin  | Edit a product          | Update product details                      |
+| 3             | Admin  | Delete a product        | Remove items that are not available  |
+| 4             | Admin  | Delete a product review| Remove product reviews  |
+
 
 
