@@ -31,6 +31,8 @@ This application has been created for educational purposes only. No orders will 
 
 ---
 
+## Strategy
+
 ### Site goals
 
 - The site's main aim is to provide users with a hassle-free shopping journey, from effortless navigation to secure checkout processes, ensuring a smooth and enjoyable ecommerce experience.
@@ -102,5 +104,26 @@ This application has been created for educational purposes only. No orders will 
 | 3             | Admin  | Delete a product        | Remove items that are not available  |
 | 4             | Admin  | Delete a product review| Remove product reviews  |
 
+---
 
+## Scope
 
+The table below shows all features of the site, detailing the user type, difficulty, and importance ratings. Prioritisation was based on these ratings during the build phase.
+
+| User                | Feature                                                                | Difficulty | Importance |
+|---------------------|------------------------------------------------------------------------|------------|------------|
+| All users           | ElephantSQL database creation                                          |     5      |      5      |
+| Visitors/Account holders | Contact form                                                         |      1      |      2      |
+| All users           | Navigation                                                             |      1      |      4      |
+| All users           | Portfolio page with search functionality                               |      5      |      4      |
+| All users           | Detailed print/product description with ability to view customer reviews |      1      |      3      |
+| All users           | Payment functionality allowing users to purchase prints                |      5      |      5      |
+| All users           | Registration functionality                                             |      5      |      5      |
+| Account holders     | Login/out functionality                                                |      5      |      5      |
+| Account holders     | Profile page containing saved address information and previous orders  |      4      |      3      |
+| Account holders     | Email notifications verifying successful account creation/purchase    |      4      |      4      |
+| Account holders     | Account recovery                                                       |      5      |      5      |
+| Account holders     | CRUD functionality                                                     |      3      |      5      |
+| Account holders     | Stripe integration                                                     |      5      |      5      |
+
+---
