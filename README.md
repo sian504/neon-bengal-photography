@@ -127,3 +127,46 @@ The table below shows all features of the site, detailing the user type, difficu
 | Account holders     | Stripe integration                                                     |      5      |      5      |
 
 ---
+
+## Structure 
+
+![Flow diagram of how the app will function](static/images/lucid-chart.png)
+
+The site consists of 12 pages, including:
+
+### Home and about
+- Page detailing the purpose of the site with visually appealing carousel of various images 
+
+### Registration 
+- User sign-up form
+
+### Login 
+- User login form
+
+### Profile 
+- Users will land on this page once logged in, will show all saved personal information relating to purchases, previous orders and all reviews that user has left. 
+
+### Portfolio/ search 
+- Where users will be able to browse all photos available to purchase prints, will include a search functionality so that users can filter by category, description or name
+
+### Purchase page 
+- Where users can provide their payment information via a Stripe integration to purchase prints 
+
+### Add review 
+- Form to add review
+
+### Edit review 
+- Form to edit a review
+
+### Delete recommendations 
+- Seeks confirmation from user that they wish to delete a review
+
+### Add product 
+- Form for admin to add a print
+
+### Edit product 
+- Form for admin to edit a print
+
+### Delete product 
+- Seeks confirmation from admin that they wish to delete a product
+
