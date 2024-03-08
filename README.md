@@ -16,6 +16,7 @@ This application has been created for educational purposes only. No orders will 
     - [Strategy](#strategy)
     - [Scope](#scope)
     - [Structure](#structure)
+        - [Database structure] (#database-structure)
     - [Skeleton](#skeleton)
     - [Surface](#surface)
 - [Features](#features)
@@ -168,5 +169,25 @@ The site consists of 12 pages, including:
 - Form for admin to edit a print
 
 ### Delete product 
-- Seeks confirmation from admin that they wish to delete a product
+- Seeks confirmation from admin that they wish to delete a print
 
+--- 
+
+## Database Structure
+
+---
+
+## Skeleton
+
+I've linked the wireframes for each page below: 
+
+- [Home page](static/wireframes/home.png)
+- [Log In page](static/wireframes/login.png)
+- [Register page](static/wireframes/registration.png)
+- [Profile page](static/wireframes/profile.png)
+- [Portfolio page](static/wireframes/portfolio.png)
+- [Add review/product page](static/wireframes/add-review.png)
+- [Edit review/product page](static/wireframes/edit-review.png)
+- [Delete review/product page](static/wireframes/delete-review.png)
+
+---
